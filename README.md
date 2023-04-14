@@ -1,7 +1,5 @@
 ### Hello World! Eu sou Luiz Messias
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje eu trabalho com front-end
 - 🌱 Estudando HTML5 e CSS3
 - 😄 Pronouns: ele/dele
