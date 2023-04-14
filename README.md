@@ -19,4 +19,4 @@
   
   </div>
   
-  ![Snake animation](https://github.com/LuizMessias123/LuizMessias123.github/workflows/main.yml)
+  ![Snake animation](https://github.com/LuizMessias123/rafaballerini/blob/output/github-contribution-grid-snake.svg)
