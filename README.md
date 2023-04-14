@@ -20,4 +20,3 @@
   </div>
   
   ![Snake animation](https://github.com/Luiz-Messias/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-##
