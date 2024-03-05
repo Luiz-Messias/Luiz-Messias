@@ -1,8 +1,7 @@
 ### Hello World! Eu sou Luiz Messias
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando HTML5 e CSS3
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje eu trabalho com Full-Stack
+- 🌱 Estudando Javascript e C#
 
 <div> 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
