@@ -1,7 +1,13 @@
 ### Hello World! Eu sou Luiz Messias
 
-- 🔭 Hoje eu trabalho com Full-Stack
-- 🌱 Estudando Javascript e C#
+Atualmente trabalho como Full-Stack, tecnologias que utilizo:
+
+- C# e .NET
+- JavaScript, HTML, CSS e Sass
+- Vue 3 e Tailwind CSS
+- Arquitetura de software e padrões de projeto
+
+No tempo livre, gosto de codar alguns projetos pessoais, ler sobre as novidades da área.🤝
 
 <div> 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
